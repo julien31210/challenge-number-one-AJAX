@@ -1,71 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-
-	<client1 id="0">
+	<client id="0">
 		<nom>Hadock</nom>
 		<prenom>Georges</prenom>
 		<âge>44</âge>
 		<profession>Capitaine</profession>
 		<email>georgeshadock@gmail.com</email>
 		<téléphone>0645706523</téléphone>
-	</client1>
-
-	<client2 id="1">
+	</client>
+	<client id="1">
 		<nom>Billard</nom>
 		<prenom>Tintin</prenom>
 		<âge>25</âge>
 		<profession>journaliste</profession>
 		<email>billardtintin@gmail.com</email>
 		<téléphone>0645706545</téléphone>
-	</client2>
-		
-	<client3 id="2">
+	</client>	
+	<client id="2">
 		<nom>Dupont</nom>
 		<prenom>Michel</prenom>
 		<âge>45</âge>
 		<profession>Policier</profession>
 		<email>dupontmichel@gmail.com</email>
 		<téléphone>0645706589</téléphone>
-	</client3>
-
-	<client4 id="3">
+	</client>
+	<client id="3">
 		<nom>Dupond</nom>
 		<prenom>Michel</prenom>
 		<âge>45</âge>
 		<profession>Policier</profession>
 		<email>dupondmichel@gmail.com</email>
 		<téléphone>0645706598</téléphone>
-	</client4>
+	</client>
 </data>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</xml>
